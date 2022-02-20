@@ -11,12 +11,15 @@ You need to follw only 3 steps
 First you need to import emojionarea css and js file which are has in this project .
 <br>
 OR, You will import their cdn which are below: 
+```
 <link rel="stylesheet" href="file/to/path/css/emojionearea.min.css">
 <script type="text/javascript" src="file/to/path/js/emojionearea.min.js"></script>
+```
 <br>
 <b>Step 2 </b><hr><br>
 You must need to add index.html file in your project or you can add textarea only in your project. Here i give you my html blade file below :
 <br>
+```
 <!doctype html>
 <html lang="en">
 
@@ -58,11 +61,12 @@ You must need to add index.html file in your project or you can add textarea onl
 </body>
 
 </html>
+```
 
 <br>
 <b>Step 3</b><hr><br>
 Than last stem you just need to add javascript code in your index file> This code also i provide below : <br>
-<!-- ... -->
+```
     <script>
         // $("#emojionearea1").emojioneArea({
         //     container: "#container2" // by selector
@@ -83,7 +87,8 @@ Than last stem you just need to add javascript code in your index file> This cod
 
         })
     </script>
+```
 
-Hurray! So,now your project is ready to use emoji.
-Thanks,
-Zunaid Miah
+Hurray! So,now your project is ready to use emoji.<br>
+Thanks,<br>
+Zunaid Miah<br>
