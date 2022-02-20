@@ -56,27 +56,27 @@ You must need to add index.html file in your project or you can add textarea onl
 <br>
 <b>Step 3</b><hr><br>
 Than last stem you just need to add javascript code in your index file> This code also i provide below : <br>
-```js
-    <script>
-        // $("#emojionearea1").emojioneArea({
-        //     container: "#container2" // by selector
-        // });
-        $(document).ready(function() {
-            $("#emojionearea1").emojioneArea({
-                pickerPosition: "left",
-                filtersPosition: "bottom",
-                tonesStyle: "bullet",
-                autocomplete: true,
-                hidePickerOnBlur: true,
-                searchPlaceholder: "Search",
-                buttonTitle: "",
-                saveEmojisAs: "unicode",
-                inline: true
-            });
+```
+<script>
+// $("#emojionearea1").emojioneArea({
+//     container: "#container2" // by selector
+// });
+$(document).ready(function() {
+$("#emojionearea1").emojioneArea({
+pickerPosition: "left",
+filtersPosition: "bottom",
+tonesStyle: "bullet",
+autocomplete: true,
+hidePickerOnBlur: true,
+searchPlaceholder: "Search",
+buttonTitle: "",
+saveEmojisAs: "unicode",
+inline: true
+});
 
 
-        })
-    </script>
+})
+</script>
 ```
 
 Hurray! So,now your project is ready to use emoji.<br>
