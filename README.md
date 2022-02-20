@@ -19,16 +19,14 @@ OR, You will import their cdn which are below:
 <b>Step 2 </b><hr><br>
 You must need to add index.html file in your project or you can add textarea only in your project. Here i give you my html blade file below :
 <br>
-[](https://github.com/Zunaid420/emoji-library/blob/master/index.html)
+do yow want html blade structure? <br>[click here](https://github.com/Zunaid420/emoji-library/blob/master/index.html)
 
 <br>
 <b>Step 3</b><hr><br>
-Than last stem you just need to add javascript code in your index file> This code also i provide below : <br>
+Than last step you just need to add javascript code in your index file> This code also i provide below : <br>
+````
 ```
 <script>
-// $("#emojionearea1").emojioneArea({
-//     container: "#container2" // by selector
-// });
 $(document).ready(function() {
 $("#emojionearea1").emojioneArea({
 pickerPosition: "left",
@@ -41,12 +39,10 @@ buttonTitle: "",
 saveEmojisAs: "unicode",
 inline: true
 });
-
-
 })
 </script>
 ```
-
+````
 Hurray! So,now your project is ready to use emoji.<br>
 Thanks,<br>
 Zunaid Miah<br>
