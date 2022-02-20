@@ -19,39 +19,7 @@ OR, You will import their cdn which are below:
 <b>Step 2 </b><hr><br>
 You must need to add index.html file in your project or you can add textarea only in your project. Here i give you my html blade file below :
 <br>
-```html
-<!doctype html>
-<html lang="en">
-
-<head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <link rel="stylesheet" href="emojionearea.min.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-    <script src="emojionearea.min.js"></script>
-    <title>Emoji Library-emojionarea</title>
-</head>
-
-<body>
-    <h1>Welcome to Emoji Library-emojionarea</h1>
-    <div class="container px-5 mx-5">
-        <form>
-            <div class="form-group">
-                <label for="emojionearea1">Example textarea</label>
-                <textarea class="form-control" id="emojionearea1" rows="3"></textarea>
-            </div>
-        </form>
-    </div>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-
-</body>
-
-</html>
-```
+[](https://github.com/Zunaid420/emoji-library/blob/master/index.html)
 
 <br>
 <b>Step 3</b><hr><br>
