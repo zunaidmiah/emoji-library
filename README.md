@@ -26,21 +26,22 @@ do yow want html blade structure? <br>[click here](https://github.com/Zunaid420/
 Than last step you just need to add javascript code in your index file> This code also i provide below : <br>
 ````<br>
 <script>
-$(document).ready(function() {
-$("#emojionearea1").emojioneArea({
-pickerPosition: "left",
-filtersPosition: "bottom",
-tonesStyle: "bullet",
-autocomplete: true,
-hidePickerOnBlur: true,
-searchPlaceholder: "Search",
-buttonTitle: "",
-saveEmojisAs: "unicode",
-inline: true
-});
-})
+  $(document).ready(function() {
+    $("#emojionearea1").emojioneArea({
+      pickerPosition: "left",
+      filtersPosition: "bottom",
+      tonesStyle: "bullet",
+      autocomplete: true,
+      hidePickerOnBlur: true,
+      searchPlaceholder: "Search",
+      buttonTitle: "",
+      saveEmojisAs: "unicode",
+      inline: true
+    });
+  })
 </script>
-<br>````
+<br>
+````
 <br>Hurray! So,now your project is ready to use emoji.<br>
 Thanks,<br>
 Zunaid Miah<br>
