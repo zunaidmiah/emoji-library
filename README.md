@@ -25,7 +25,6 @@ do yow want html blade structure? <br>[click here](https://github.com/Zunaid420/
 <b>Step 3</b><hr><br>
 Than last step you just need to add javascript code in your index file> This code also i provide below : <br>
 ````
-```
 <script>
 $(document).ready(function() {
 $("#emojionearea1").emojioneArea({
@@ -41,8 +40,7 @@ inline: true
 });
 })
 </script>
-```
 ````
-Hurray! So,now your project is ready to use emoji.<br>
+<br>Hurray! So,now your project is ready to use emoji.<br>
 Thanks,<br>
 Zunaid Miah<br>
